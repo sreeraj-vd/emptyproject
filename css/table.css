@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    widows: 100%;
+ 
+ }
+ .tbl_head{
+     background-color: blue;
+ }
+ .tbl_head:hover{
+     background-color: chocolate;
+ }
+ .tbl_row{
+     background-color: aquamarine;
+
+ }
+.tbl_row:hover{
+    background-color: black;
+
+}
+
+
+ 
